@@ -37,6 +37,7 @@ The project utilizes a **Maven Multi-Module** structure, ensuring high decouplin
 ## 📚 Technical Blueprints
 For detailed structural and architectural specifications, refer to the individual blueprints:
 - 📖 [UIDAI Sandbox Trust Broker Blueprint](uidai-sandbox-trust-broker-blueprint.md)
+- 📝 [E2E Validation Report](uidai-sandbox-trust-broker-e2e-validation-report.md)
 
 ---
 *Last updated: April 2026*
