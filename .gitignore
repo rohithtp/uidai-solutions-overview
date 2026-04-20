@@ -1,0 +1,29 @@
+.aider*
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore other common temporary files
+*.swp
+*.swo
+
+#Ignore Egg-info Directories
+*.egg-info/
+
+#Ignore generated pdf files
+*.pdf
