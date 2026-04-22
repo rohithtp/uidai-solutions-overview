@@ -8,6 +8,8 @@
 ## Overview
 This report summarizes the current implementation status of the `uidai-sandbox-trust-broker` against the project blueprint.
 
+For a detailed explanation of the design principles and architecture context, see [Detailed Design Explanation](interview/explained.md).
+
 | Phase | Goal | Status | Completion % |
 |---|---|---|---|
 | **Phase 1** | Baseline Services (Health, REST, OpenAPI) | **COMPLETED** | 100% |
@@ -64,3 +66,4 @@ This report summarizes the current implementation status of the `uidai-sandbox-t
 ## Recommended Next Steps
 1.  **Telemetry Expansion**: Integrate `AuditEvent` DTO into the `GatewayService` flow for persistent audit trails.
 2.  **Protocol expansion**: Support non-Kafka protocols (REST/GRPC) in the `GatewayServiceImpl` routing logic.
+
