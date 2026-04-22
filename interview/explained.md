@@ -106,3 +106,6 @@ This design focuses on being practical, secure, and adaptable.
 It avoids hardcoded assumptions about identity formats, supports multiple external standards, and treats trust verification as a first-class concern.
 
 > Trust should always be explicit — never assumed.
+
+## Questions and Answers
+- [question and answers](model_questions_answers.md)
