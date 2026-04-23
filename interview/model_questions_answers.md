@@ -43,17 +43,17 @@ Left side = question, right side = **tight, high-signal architect answer** (not 
 
 Perfect—let’s simulate a **full end-to-end architecture interview**. I’ll play:
 
-* Principal Architect
-* Security Reviewer
-* SRE
+- Principal Architect
+- Security Reviewer
+- SRE
 
 You’ll see:
 
-* **Question**
-* ❌ Bad answer
-* ⚠️ Good answer
-* ✅ Excellent answer (what gets you hired)
-* 🔥 Panel challenge (how they push further)
+- **Question**
+- ❌ Bad answer
+- ⚠️ Good answer
+- ✅ Excellent answer (what gets you hired)
+- 🔥 Panel challenge (how they push further)
 
 ---
 
@@ -346,7 +346,10 @@ You’ll see:
 > What’s the first thing you’d fix?
 
 ---
+
 ## More
+
 - [more](more_dif.md)
 - [git explain](interview_git_explain.md)
 - [walkthrough](interview_walkthrough.md)
+- [detailed questions to assignmment](another.md)
