@@ -348,3 +348,5 @@ You’ll see:
 ---
 ## More
 - [more](more_diff.md)
+- [git explain](interview_git_explain.md)
+- [walkthrough](interview_walkthrough.md)
